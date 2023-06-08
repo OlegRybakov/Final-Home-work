@@ -1,0 +1,23 @@
+.center {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+@media screen and (max-width: 450px) {
+  .center--menu {
+    padding: 0;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .center {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+}
+@media screen and (min-width: 1680px) {
+  .center {
+    padding-left: 160px;
+    padding-right: 160px;
+  }
+}
+
+/*# sourceMappingURL=containers.css.map */
